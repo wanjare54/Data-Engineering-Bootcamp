@@ -1,9 +1,0 @@
-r=int(input("Please enter fibo range :"))
-x=0
-y=1
-z=0
-while z<=r:
-    print(z,end=" ")
-    x=y
-    y=z
-    z=x+y

@@ -1,0 +1,8 @@
+a=int(input("Please enter the ranage for a number :"))
+b=int(input("Please enter the range for b number :"))
+x=7
+
+while a<=b:
+    if (a % x == 0):
+        print(a)
+    a=a+1

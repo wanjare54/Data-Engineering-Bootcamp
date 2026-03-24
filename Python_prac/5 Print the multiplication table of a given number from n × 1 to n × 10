@@ -1,0 +1,9 @@
+print("hello")
+n=3
+i=1
+mul=0
+while i<=10:
+    mul=n*i
+    # mul=n*i
+    i=i+1
+    print(mul)
